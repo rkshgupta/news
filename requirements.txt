@@ -8,7 +8,7 @@ async_generator==1.10
 brotli==1.0.7
 cchardet==2.1.6
 contextvars==2.4
-cryptography==2.9.2
+cryptography==3.2
 Cython==0.29.20
 cython==0.29.20
 email_validator==1.1.1
