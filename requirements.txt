@@ -43,4 +43,4 @@ usercustomize==1.0.0
 watchgod==0.6
 wincertstore==0.2
 wsproto==0.15.0
-zope==4.4.3
+zope==5.2.1
